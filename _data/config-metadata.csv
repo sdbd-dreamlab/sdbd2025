@@ -1,13 +1,13 @@
 field,display_name,browse_link,external_link
-title,Title,
-creator,Creator,
+COMMONNAME,Name,
+DISCIPLINE,Discipline,true
 date,Date Created,
 description,Description,
-subject,Subjects,true
 location,Location
-latitude,Latitude
-longitude,Longitude
+LATITUDE,Latitude
+LONGITUDE,Longitude
 source,Source
+WEBURL,Website
 identifier,Source Identifier,,
 type,Type,
 format,Format,
