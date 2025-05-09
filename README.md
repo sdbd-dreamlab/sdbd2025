@@ -4,6 +4,8 @@ A repo to generate a free and simple digital collection site using [GitHub Pages
 
 Visit the [site](https://sdbd-dreamlab.github.io/sdbd2025/). This repo was used for Small Data, Big Dreams: Minimal Computing for Data Collection & Visualization at [DREAM Lab 2025](https://web.sas.upenn.edu/dream-lab/small-data-big-dreams-2025/)
 
+## About the Data 
+
 ## Build a Digital Collection
 
 Gather your digital objects together and create your metadata using the [CollectionBuilder-GH Metadata Template](https://docs.google.com/spreadsheets/d/1Uv9ytll0hysMOH1j-VL1lZx6PWvc1zf3L35sK_4IuzI/copy) and [metadata docs](https://collectionbuilder.github.io/cb-docs/docs/metadata/gh_metadata/). 
