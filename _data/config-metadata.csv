@@ -1,8 +1,9 @@
 field,display_name,browse_link,external_link
-COMMONNAME,Name,
+title,Name,
 DISCIPLINE,Discipline,true
 date,Date Created,
 description,Description,
+filename,Filename
 location,Location
 LATITUDE,Latitude
 LONGITUDE,Longitude
